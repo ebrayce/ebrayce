@@ -1,5 +1,5 @@
 ## Hi there 👋
-### my name is Ernest Brayce
+### My name is Ernest Brayce
 #### I am a Full Stack Developer
 ![I am Full Stack Developer](https://raw.githubusercontent.com/ebrayce/ebrayce/main/img/banner.png)
 
