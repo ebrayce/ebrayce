@@ -7,7 +7,7 @@ Software Developer offering managerial expertise and dedication to customer serv
 
 Skills: Salesforce / VUE JS / Laravel / JS / HTML / CSS
 
-- 📫 How to reach me: ebrayce at everywhere
+- 📫 How to reach me: ebrayce everywhere
 
 ![Profile views](https://gpvc.arturio.dev/ebrayce)
 
