@@ -23,3 +23,5 @@ Skills: Salesforce / VUE JS / Laravel / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/ebrayce)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ebrayce)
+
